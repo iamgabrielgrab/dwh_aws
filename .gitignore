@@ -2,5 +2,6 @@ postgres/
 logs/
 venv/
 postgres-data/
+plugins/operators/__pycache__
 dags/__pycache__/
 dags/__pycache__/dag_dwh_aggregations.cpython-36.pyc

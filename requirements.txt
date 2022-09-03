@@ -1,6 +1,8 @@
 pandas
 sqlalchemy
-faker
+faker==14.1.1
 random2
-datetime 
-psycopg2
+datetime
+#libpq-dev
+# python-dev 
+# psycopg2
